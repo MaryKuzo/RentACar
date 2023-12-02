@@ -45,5 +45,5 @@ Main page
 Catalog page
 ![Catalog page](https://github.com/MaryKuzo/RentACar/raw/main/src/assets/img/view-2.png)
 
-Favorutes page
+Favorites page
 ![Favorites page](https://github.com/MaryKuzo/RentACar/raw/main/src/assets/img/view-3.png)
