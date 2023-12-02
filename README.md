@@ -26,6 +26,7 @@ The catalog page contains a wide range of cars of different brands, configuratio
 On this page, users can view listings they have added to their favorites list. It contains information about cars that have piqued special interest, along with the ability to view detailed rental conditions for each car.
 
 Technical Details
+
 The application utilizes React and React Router for navigation between pages.
 Redux is used for managing the application's state and data storage.
 Interaction with the backend is implemented through Axios to fetch and update the list of listings.
