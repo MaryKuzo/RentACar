@@ -14,13 +14,17 @@ In the project directory, you can run:
 ## Learn More
 
 1. Home Page
+
 On the main page, users can familiarize themselves with a general description of the services offered by the company. Here, a brief overview of the services and advantages of renting cars from RentCar is presented.
+
 2. Car Catalog
 
 The catalog page contains a wide range of cars of different brands, configurations, and specifications. Users can filter cars by brand, hourly rental price, and mileage. The interface allows viewing 12 listings by default and loading more listings by clicking the "Load More" button.
+
 3. Favorite Listings
 
 On this page, users can view listings they have added to their favorites list. It contains information about cars that have piqued special interest, along with the ability to view detailed rental conditions for each car.
+
 Technical Details
 The application utilizes React and React Router for navigation between pages.
 Redux is used for managing the application's state and data storage.
