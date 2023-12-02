@@ -33,10 +33,10 @@ Teclology stack [React, Redux, HTML, CSS, JS, Fetch API, styled-components, rout
 Design https://www.figma.com/file/XhC8FSCfAkraEF5l7Hx4fL/Test?type=design&node-id=0-1&mode=design&t=SnuuE5eg4jpvFkUy-0
 
 Main page
-![Main page](https://github.com/MaryKuzo/RentACar/raw/master/src/assets/img/view.png)
+![Main page](https://github.com/MaryKuzo/RentACar/raw/main/src/assets/img/view.png)
 
 Catalog page
-![Catalog page](https://github.com/MaryKuzo/RentACar/raw/master/src/assets/img/view-2.png)
+![Catalog page](https://github.com/MaryKuzo/RentACar/raw/main/src/assets/img/view-2.png)
 
 Favorutes page
-![Favorites page](https://github.com/MaryKuzo/RentACar/raw/master/src/assets/img/view-3.png)
+![Favorites page](https://github.com/MaryKuzo/RentACar/raw/main/src/assets/img/view-3.png)
