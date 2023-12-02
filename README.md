@@ -32,6 +32,8 @@ Teclology stack [React, Redux, HTML, CSS, JS, Fetch API, styled-components, rout
 
 Design https://www.figma.com/file/XhC8FSCfAkraEF5l7Hx4fL/Test?type=design&node-id=0-1&mode=design&t=SnuuE5eg4jpvFkUy-0
 
+MockAPI https://mockapi.io/projects/65689af09927836bd9751fb8
+
 Main page
 ![Main page](https://github.com/MaryKuzo/RentACar/raw/main/src/assets/img/view.png)
 
