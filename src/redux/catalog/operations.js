@@ -8,7 +8,7 @@ export const setAdverts = createAsyncThunk(
   async (page, thunkAPI) => {
     try {
       const res = await axios.get("/adverts", {
-        params: { page: page, limit: 8 },
+        params: { page: page, limit: 12 },
       });
       return res.data;
     } catch (e) {
